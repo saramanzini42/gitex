@@ -1,4 +1,5 @@
-daje
+# Exercise Git class at IPGP
 
+> hope it will work :/
 
-Almeno ho mergiato :/
+Review about music
