@@ -1,4 +1,0 @@
-daje
-
-
-Almeno ho mergiato :/
